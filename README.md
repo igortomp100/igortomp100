@@ -1,5 +1,5 @@
 
-# 👨‍💻 A little bit about me
+# 👨‍💻 About me
 
 Hi there! 👋
 
