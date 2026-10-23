@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**igortomp100/igortomp100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 A little bit about me
 
-Here are some ideas to get you started:
+Hi there! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Front-End Engineer** with over 16 years of experience in software development.
+
+I specialize in building scalable applications using React, Next.js, Angular and TypeScript.
+
+### 🛠️ My favorite technologies
+
+- ⚛️ React.js & Next.js
+- 🔷 TypeScript & JavaScript
+- 🅰️ Angular
+- 🟢 Node.js
+- 🚀 GraphQL & Apollo Client
+- 🧪 Jest, Cypress & React Testing Library
+
+### 🌱 Currently learning
+
+AI-Assisted Development, SDD, AI Agents and Hexagonal Architecture.
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/igorthompsen/)
