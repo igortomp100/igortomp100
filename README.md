@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    alt="Igor Thompsen - Front-End Engineer"
+    width="100%"
+  />
+</p>
 
 # 👨‍💻 About me
 
