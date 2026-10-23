@@ -22,6 +22,7 @@ I specialize in building scalable applications using React, Next.js, Angular and
 - 🟢 Node.js
 - 🚀 GraphQL & Apollo Client
 - 🧪 Jest, Cypress & React Testing Library
+- 🎻 Rabeca
 
 ### 🌱 Currently learning
 
